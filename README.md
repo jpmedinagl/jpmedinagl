@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jpmedinagl
-- 👀 I’m interested in Experimental/Computational Physics
-- 🌱 I’m currently learning basic machine learning
-- 💞️ I’m looking to collaborate on anything
+- 👀 
+- 🌱 
+- 💞️ 
 - 📫
 
 <!---
